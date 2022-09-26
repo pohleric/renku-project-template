@@ -22,3 +22,8 @@
   name: Minimal Renku
   description: The simplest renku project template with files for renku CLI and launching projects on renkulab.
   variables: {}
+- folder: sgg-00272-trial-v-1-template
+  name: SGG00272-template
+  description: SGG00272 template.
+  variables: {}
+  icon: SGG00272.png
